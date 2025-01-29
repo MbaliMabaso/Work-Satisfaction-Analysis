@@ -18,5 +18,6 @@ on job satisfaction, providing actionable insights for organizations to improve 
 
 - 
 
-For a detailed analysis, check the **notebook** in `analysis/employee_satisfaction.ipynb`.
+For a detailed analysis, check the **notebook** in the Jupiter Notebook`.[
+](https://github.com/MbaliMabaso/Work-Satisfaction-Analysis/blob/8b29a30bb04a7fff014805aa607b194bab7e97d9/EmployeeSurveyAnalysis.ipynb)
 
