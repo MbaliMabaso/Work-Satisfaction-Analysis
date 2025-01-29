@@ -16,6 +16,9 @@ Main findings include:
    - Workload: Negative correlation with job satisfaction.
    - Stress: Negative correlation with job satisfaction.
      
+     [
+](https://github.com/MbaliMabaso/Work-Satisfaction-Analysis/blob/0c88c96c7da82453cd9579530d031284a042306d/EmployeeSurveyRegressionWeights.png)
+
 - Significant prediction errors indicate the dataset lacks key predictors, suggesting the need for a better survey design.
 
 For a detailed analysis, check the **notebook** in 'EmployeeSurveyAnalysis`.[
