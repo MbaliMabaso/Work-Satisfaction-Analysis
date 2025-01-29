@@ -20,6 +20,8 @@ Main findings include:
 
 - Significant prediction errors indicate the dataset lacks key predictors, suggesting the need for a better survey design.
 
+  ![image alt]()
+
 For a detailed analysis, check the **notebook** in 'EmployeeSurveyAnalysis`.[
 ](https://github.com/MbaliMabaso/Work-Satisfaction-Analysis/blob/8b29a30bb04a7fff014805aa607b194bab7e97d9/EmployeeSurveyAnalysis.ipynb)
 
