@@ -15,7 +15,7 @@ Main findings include:
    - Work Environment (WorkEnv): Positive correlation with job satisfaction.
    - Workload: Negative correlation with job satisfaction.
    - Stress: Negative correlation with job satisfaction.
-     
+     ![image alt]([image§_url](https://github.com/MbaliMabaso/Work-Satisfaction-Analysis/blob/a0d94369c31121f114270ab50ebdf4ba0698dd9e/EmployeeSurveyRegressionWeights.png))
   
 
 - Significant prediction errors indicate the dataset lacks key predictors, suggesting the need for a better survey design.
