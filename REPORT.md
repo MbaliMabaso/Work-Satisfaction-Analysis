@@ -21,3 +21,34 @@ Dependent Variable: Job Satisfaction.
   ![image alt]([image_url](https://github.com/MbaliMabaso/Work-Satisfaction-Analysis/blob/2e26dbdedf4ebe1d38c7261e933f69116befd3c4/EmployeeSurveyHeatMap.png))
 - Multicollinearity: Sleep hours had a VIF > 10, therefore, it was removed from the model.
    ![image alt]([image_url]([)](https://github.com/MbaliMabaso/Work-Satisfaction-Analysis/blob/95ef4692b651160a3c0d2af6429722fb15ebfb09/EmployeeSurveyVIF.png)
+
+  5️⃣ Regression Model & Performance
+Model Used: Multiple Linear Regression
+Formula:
+Job Satisfaction = β0 + β1(WLB) + β2(WorkEnv) + β3(Workload) + β4(Stress) + ϵ
+Performance Metrics:
+R² Score: 0.23 (23% of variance explained)
+Significant Predictors (p < 0.05): WLB, WorkEnv, Workload, Stress
+
+6️⃣ Key Insights & Interpretation
+WorkEnv (work environment) has a positive relationship with job satisfaction (β = 0.322, p < 0.001). 
+WLB (Work life balance) has a positive relationship with job satisfaction (β = 0.317, p < 0.001). 
+Workload has a negative relationship with job satisfaction (β = -0.313, p < 0.001).
+Stress has a negative relationship with job satisfaction (β = -0.261, p < 0.001).
+These four variables explain 23 % of the variance in job satisfaction, making the predictive power of this model.
+
+7️⃣ Challenges and limitations
+Weak predictors: variables in this dataset had low correlations with job satisfaction, with correlations ranging from -0.253 and 0.260.
+The fact that the model only explained 23% of the variance in Job satisfaction and the high residuals indicates that we are missing key contributors
+to Job satisfaction.
+The dataset lacked survey validation, raising concerns about construct validity and reliability.
+
+8️⃣ Conclusion & Recommendations
+Conduct a literature review to find a theoretical framework that captures job satisfaction and its correlates.
+Create a new survey and test its reliability and construct validity by doing a confirmatory factor analysis, or use a validated measure of job satisfaction.
+
+📂 Project Files:
+Notebook: notebooks/employee_satisfaction.ipynb
+Dataset: data/employee_satisfaction.csv
+
+✉ Contact: For questions or collaboration, reach out via GitHub or email.
