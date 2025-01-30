@@ -20,4 +20,4 @@ Dependent Variable: Job Satisfaction.
   job satisfaction. The correlations were small, ranging from .18 to .260.
   ![image alt]([image_url](https://github.com/MbaliMabaso/Work-Satisfaction-Analysis/blob/2e26dbdedf4ebe1d38c7261e933f69116befd3c4/EmployeeSurveyHeatMap.png))
 - Multicollinearity: Sleep hours had a VIF > 10, therefore, it was removed from the model.
-   ![image alt]([image_url]()
+   ![image alt]([image_url]([)](https://github.com/MbaliMabaso/Work-Satisfaction-Analysis/blob/95ef4692b651160a3c0d2af6429722fb15ebfb09/EmployeeSurveyVIF.png)
