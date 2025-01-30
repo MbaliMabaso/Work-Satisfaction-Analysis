@@ -16,13 +16,6 @@ Dependent Variable: Job Satisfaction.
 
 4️⃣ Exploratory Data Analysis (EDA)
 - Missing Data: No significant missing values detected.
-
-
-  Correlation Analysis:
-Autonomy and job satisfaction show a strong positive correlation (r = 0.72).
-Competence and relatedness also contribute significantly.
-Salary has a weaker correlation than expected (r = 0.45).
-Visualizations:
-Scatter plots show linear relationships between predictors and satisfaction.
-Heatmap confirms strong correlations.
+- Correlation Analysis:
+  ![image alt](image_url)
 
