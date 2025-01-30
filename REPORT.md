@@ -31,6 +31,7 @@ R² Score: 0.23 (23% of variance explained)
 Significant Predictors (p < 0.05): WLB, WorkEnv, Workload, Stress.
 
 6️⃣ Key Insights & Interpretation
+
 ![image_alt]([image URL](https://github.com/MbaliMabaso/Work-Satisfaction-Analysis/blob/47c41e48cf3e338d1f60131c2a392460ce03b5de/EmployeeSurveyRegressionWeights.png))
 
 WorkEnv (work environment) has a positive relationship with job satisfaction (β = 0.322, p < 0.001). 
