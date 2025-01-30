@@ -16,6 +16,8 @@ Dependent Variable: Job Satisfaction.
 
 4️⃣ Exploratory Data Analysis (EDA)
 - Missing Data: No significant missing values detected.
-- Correlation Analysis:
+- Correlation Analysis: Work life balance, Work environment and sleep hours had positive correlations with job satisfaction. Stress and work load had negative correlations with
+  job satisfaction. The correlations were small, ranging from .18 to .260.
   ![image alt]([image_url](https://github.com/MbaliMabaso/Work-Satisfaction-Analysis/blob/2e26dbdedf4ebe1d38c7261e933f69116befd3c4/EmployeeSurveyHeatMap.png))
-
+- Multicollinearity: Sleep hours had a VIF > 10, therefore, it was removed from the model.
+   ![image alt]([image_url]()
