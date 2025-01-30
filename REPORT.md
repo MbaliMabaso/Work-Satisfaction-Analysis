@@ -17,5 +17,5 @@ Dependent Variable: Job Satisfaction.
 4️⃣ Exploratory Data Analysis (EDA)
 - Missing Data: No significant missing values detected.
 - Correlation Analysis:
-  ![image alt](image_url)
+  ![image alt]([image_url](https://github.com/MbaliMabaso/Work-Satisfaction-Analysis/blob/2e26dbdedf4ebe1d38c7261e933f69116befd3c4/EmployeeSurveyHeatMap.png))
 
