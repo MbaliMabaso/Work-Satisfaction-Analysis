@@ -7,7 +7,7 @@ on job satisfaction, providing actionable insights for organizations to improve 
 - **Key Findings:**
 - The regression model explained 23% of  the variance in work satisfaction. 
   
-- The model achieved an **R² score of 0.23**, indicating weak predictive capability-
+- The model achieved an **R² score of 0.23**, indicating weak predictive capability.
   
 - Variables included in the final model:
    - Work-Life Balance (WLB): Positive correlation with job satisfaction.
