@@ -4,7 +4,7 @@
 This project analyzes employee job satisfaction using survey data from Kaggle.com. The aim was to identify key predictors and assess their impact
 on job satisfaction, providing actionable insights for organizations to improve employee satisfaction.
 
-- **Key Findings:**
+ **Key Findings:**
 - The regression model explained 23% of  the variance in work satisfaction. 
   
 - The model achieved an **R² score of 0.23**, indicating weak predictive capability.
