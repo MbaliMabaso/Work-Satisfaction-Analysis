@@ -41,6 +41,7 @@ Stress has a negative relationship with job satisfaction (β = -0.261, p < 0.001
 These four variables explain 23 % of the variance in job satisfaction, making the predictive power of this model.
 
 7️⃣ Challenges and limitations
+
 Weak predictors: variables in this dataset had low correlations with job satisfaction, with correlations ranging from -0.253 and 0.260.
 The fact that the model only explained 23% of the variance in Job satisfaction and the high residuals indicates that we are missing key contributors
 to Job satisfaction.
