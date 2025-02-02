@@ -51,7 +51,7 @@ The dataset lacked survey validation, raising concerns about construct validity 
 
 This project illustrates real-world data analysis challenges and emphasizes the importance of rigorous survey design. 
 My recommendation is to conduct a literature review to find a theoretical framework that captures job satisfaction and its correlates.
-Moreover, create a new survey and test its reliability and construct validity by doing a confirmatory factor analysis, or use a validated measure of job satisfaction. For an example of an analysis that uses a theoretical framework that captures work satisfaction and it's correlates, and uses confirmatory factor analysis for survey validation, plkease refer to the repository 
+Moreover, create a new survey and test its reliability and construct validity by doing a confirmatory factor analysis, or use a validated measure of job satisfaction. For an example of an analysis that uses a theoretical framework that captures work satisfaction and its correlates, and uses confirmatory factor analysis for survey validation, please refer to the repository Basic_Pychological_Need_Satisfaction_And_Work_Satisfaction.
 
 📂 Project Files:
 Notebook: notebooks/employee_satisfaction.ipynb
