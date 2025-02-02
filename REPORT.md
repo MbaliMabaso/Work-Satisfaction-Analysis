@@ -48,8 +48,10 @@ to Job satisfaction.
 The dataset lacked survey validation, raising concerns about construct validity and reliability.
 
 8️⃣ Conclusion & Recommendations
-Conduct a literature review to find a theoretical framework that captures job satisfaction and its correlates.
-Create a new survey and test its reliability and construct validity by doing a confirmatory factor analysis, or use a validated measure of job satisfaction.
+
+This project illustrates real-world data analysis challenges and emphasizes the importance of rigorous survey design. 
+My recommendation is to conduct a literature review to find a theoretical framework that captures job satisfaction and its correlates.
+Moreover, create a new survey and test its reliability and construct validity by doing a confirmatory factor analysis, or use a validated measure of job satisfaction.
 
 📂 Project Files:
 Notebook: notebooks/employee_satisfaction.ipynb
