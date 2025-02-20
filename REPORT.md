@@ -18,7 +18,9 @@ Dependent Variable: Job Satisfaction.
 - Missing Data: No significant missing values detected.
 - Correlation Analysis: Work life balance, Work environment and sleep hours had positive correlations with job satisfaction. Stress and work load had negative correlations with
   job satisfaction. The correlations were small, ranging from .18 to .260.
- image alt](https://github.com/MbaliMabaso/Work-Satisfaction-Analysis/blob/d59f779eb3e72896ff7f7744503fbfe631f2653c/EmployeeSurveyRegressionWeights.png)
+  
+  ![](EmployeeSurveyCorrelation.png)
+
 - Multicollinearity: Sleep hours had a VIF > 10, therefore, it was removed from the model.
    ![image alt]([image_url]([)](https://github.com/MbaliMabaso/Work-Satisfaction-Analysis/blob/95ef4692b651160a3c0d2af6429722fb15ebfb09/EmployeeSurveyVIF.png)
 
