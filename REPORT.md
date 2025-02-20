@@ -22,8 +22,8 @@ Dependent Variable: Job Satisfaction.
   ![](EmployeeSurveyCorrelation.png)
 
 - Multicollinearity: Sleep hours had a VIF > 10, therefore, it was removed from the model.
-   ![image alt]([image_url]([)](https://github.com/MbaliMabaso/Work-Satisfaction-Analysis/blob/95ef4692b651160a3c0d2af6429722fb15ebfb09/EmployeeSurveyVIF.png)
-
+  ![](EmployeeSurveyVIF.png)
+  
 5️⃣ Regression Model & Performance
 Model Used: Multiple Linear Regression
 Formula:
