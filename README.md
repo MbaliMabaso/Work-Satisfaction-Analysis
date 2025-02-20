@@ -15,6 +15,8 @@ on job satisfaction, providing actionable insights for organizations to improve 
    - Workload: Negative correlation with job satisfaction.
    - Stress: Negative correlation with job satisfaction.
      ![image alt]([)](https://github.com/MbaliMabaso/Work-Satisfaction-Analysis/blob/d59f779eb3e72896ff7f7744503fbfe631f2653c/EmployeeSurveyRegressionWeights.png)
+     ![](EmployeeSurveyRegressionWeights.png)
+     
      
 - Significant prediction errors indicate the dataset lacks key predictors, suggesting the need for a better survey design.
 
